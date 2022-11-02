@@ -14,3 +14,6 @@ this. Labels will convert automatically.
 
 ![engin-akyurt-WBM97UGM0QA-unsplash_mirror](https://user-images.githubusercontent.com/97486738/199422839-112d6365-0cba-4d14-a918-a5b36a9f4463.jpg)
 You can make image which flipped horizontally
+
+![result](https://user-images.githubusercontent.com/97486738/199423354-c6cf27fc-ddbe-4caf-9a01-4b2b9731fcfd.png)
+This is printed result.
