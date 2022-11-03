@@ -28,7 +28,7 @@ This is an example of a result.
 You can add motion blur to your data. Maybe it can increase the accuracy of real-time detection.
 
 
-# Censor Blind
+# Censor
 
 ![sample](https://user-images.githubusercontent.com/97486738/199657511-ede48c1f-fa13-43ac-ab3b-e000a7b16fb7.jpg)
 You can censor useless data on the image.
