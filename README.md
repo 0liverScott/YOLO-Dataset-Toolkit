@@ -8,7 +8,7 @@
 # Augmentation LetterBox
 
 ![engin-akyurt-WBM97UGM0QA-unsplash_letter](https://user-images.githubusercontent.com/97486738/199421470-261adba3-cc29-4604-9d7f-5caad7440c2e.jpg)
-You can make smaller image for bbox diversity like this. Labels will convert automatically.
+You can make smaller image for bbox diversity like this. You can customize letterbox color, Labels will convert automatically.
 
 
 # Augmentation Mirror
