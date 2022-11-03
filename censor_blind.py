@@ -53,9 +53,9 @@ def censor():
 
 if __name__ == '__main__':
 
-    debug = True
+    debug = False
 
-    class_to_censor = [0, 1]
+    class_to_censor = [0, 1]  # Add class number here to censor
 
     input_path = 'input_path'
     output_path = 'output_path_censor'
