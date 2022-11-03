@@ -26,3 +26,9 @@ This is an example of a result.
 
 ![engin-akyurt-WBM97UGM0QA-unsplash_motion](https://user-images.githubusercontent.com/97486738/199654418-34206493-0c96-4c24-926f-5ae64179c722.jpg)
 You can add motion blur to your data. Maybe it can increase the accuracy of real-time detection.
+
+
+# Censor Blind
+
+![sample](https://user-images.githubusercontent.com/97486738/199657511-ede48c1f-fa13-43ac-ab3b-e000a7b16fb7.jpg)
+You can censor useless data on the image.
