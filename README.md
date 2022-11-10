@@ -7,8 +7,12 @@
     └c.[Augmentation Mirror](#Augmentation-Mirror)   
     └d.[Augmentation Motion Blur](#Augmentation-Motion-Blur)   
     └e.[Censor](#Censor)   
-[1.Other Tools](#2.Other-Tools)   
 
+2.[Other Tools](#2.Other-Tools)   
+    └a.[Count Class](#Count-Class)   
+    └b.[Check Duplication](#Check-Duplication)   
+    
+    
 ## 1.Image Tools
 > This is original image.
 ![engin-akyurt-WBM97UGM0QA-unsplash](https://user-images.githubusercontent.com/97486738/199654238-b0f392aa-4ccb-407d-b75d-fff29c618d31.jpg)
