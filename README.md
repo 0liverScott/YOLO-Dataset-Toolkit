@@ -57,4 +57,4 @@ Count class like this. No matter there is how many classes.
 
 ### Check Duplication
 ![image](https://user-images.githubusercontent.com/97486738/201038744-938aa71b-e035-49b4-812d-6e732a4f1ba5.png)                                                   
-Use to find filename duplication. It is useful to check test/validation set leakage.
+Use to find filename duplication. It is useful to check test/validation set leakage. You can make log file.
