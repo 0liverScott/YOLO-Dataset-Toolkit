@@ -1,12 +1,12 @@
 # YOLO-Dataset-Toolkit
 
 ## Index
-[1.Image Tools](#1.Image-Tools)   
-  └[a.Compare Label](#Compare-Label)   
-  └[b.Augmentation LetterBox](#Augmentation-LetterBox)   
-  └
-  └
-  └
+1.[Image Tools](#1.Image-Tools)   
+    └a.[Compare Label](#Compare-Label)   
+    └b.[Augmentation LetterBox](#Augmentation-LetterBox)   
+    └c.[Augmentation Mirror](#Augmentation-Mirror)
+    └d.[Augmentation Motion Blur](#Augmentation-Motion-Blur)
+    └e.[Censor](#Censor)
 [1.Other Tools](#2.Other-Tools)
 
 ## 1.Image Tools
@@ -23,7 +23,6 @@ You can compare model results with ground truth. Left one is the model result.
 ### Augmentation LetterBox
 ![engin-akyurt-WBM97UGM0QA-unsplash_letter](https://user-images.githubusercontent.com/97486738/199421470-261adba3-cc29-4604-9d7f-5caad7440c2e.jpg)
 You can make a smaller image for bbox diversity like this. You can customize the letterbox color, and labels will convert automatically.
-
 
 
 ### Augmentation Mirror
