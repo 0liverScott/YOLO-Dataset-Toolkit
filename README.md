@@ -4,10 +4,10 @@
 1.[Image Tools](#1.Image-Tools)   
     └a.[Compare Label](#Compare-Label)   
     └b.[Augmentation LetterBox](#Augmentation-LetterBox)   
-    └c.[Augmentation Mirror](#Augmentation-Mirror)
-    └d.[Augmentation Motion Blur](#Augmentation-Motion-Blur)
-    └e.[Censor](#Censor)
-[1.Other Tools](#2.Other-Tools)
+    └c.[Augmentation Mirror](#Augmentation-Mirror)   
+    └d.[Augmentation Motion Blur](#Augmentation-Motion-Blur)   
+    └e.[Censor](#Censor)   
+[1.Other Tools](#2.Other-Tools)   
 
 ## 1.Image Tools
 ### Original Image
