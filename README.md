@@ -2,15 +2,15 @@
 
 ## Index
 1.[Image Tools](#1.Image-Tools)   
-    └a.[Compare Label](#Compare-Label)   
-    └b.[Augmentation LetterBox](#Augmentation-LetterBox)   
-    └c.[Augmentation Mirror](#Augmentation-Mirror)   
-    └d.[Augmentation Motion Blur](#Augmentation-Motion-Blur)   
-    └e.[Censor](#Censor)   
+    └ a.[Compare Label](#Compare-Label)   
+    └ b.[Augmentation LetterBox](#Augmentation-LetterBox)   
+    └ c.[Augmentation Mirror](#Augmentation-Mirror)   
+    └ d.[Augmentation Motion Blur](#Augmentation-Motion-Blur)   
+    └ e.[Censor](#Censor)   
 
 2.[Other Tools](#2.Other-Tools)   
-    └a.[Count Class](#Count-Class)   
-    └b.[Check Duplication](#Check-Duplication)   
+    └ a.[Count Class](#Count-Class)   
+    └ b.[Check Duplication](#Check-Duplication)   
     
     
 ## 1.Image Tools
