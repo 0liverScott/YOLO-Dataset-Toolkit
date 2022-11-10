@@ -49,3 +49,7 @@ You can censor useless data on the image.
 ![image](https://user-images.githubusercontent.com/97486738/201023143-a67b4ac2-7196-4308-958b-84e5c7cb586a.png)                                           
 Count class like this. No matter there is how many classes.
 
+# Check Duplication
+
+![image](https://user-images.githubusercontent.com/97486738/201038744-938aa71b-e035-49b4-812d-6e732a4f1ba5.png)                                                   
+Use to find filename duplication. It is useful to check test/validation set leakage.
