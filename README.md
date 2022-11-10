@@ -37,3 +37,10 @@ You can add motion blur to your data. Maybe it can increase the accuracy of real
 
 ![sample](https://user-images.githubusercontent.com/97486738/199657511-ede48c1f-fa13-43ac-ab3b-e000a7b16fb7.jpg)
 You can censor useless data on the image.
+
+
+# Count Class
+
+![image](https://user-images.githubusercontent.com/97486738/201023143-a67b4ac2-7196-4308-958b-84e5c7cb586a.png)
+Count class like this. No matter there is how many classes.
+
