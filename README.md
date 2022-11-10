@@ -30,7 +30,7 @@ This is an example of a result.
 # Augmentation Motion Blur
 
 ![engin-akyurt-WBM97UGM0QA-unsplash_motion](https://user-images.githubusercontent.com/97486738/199654418-34206493-0c96-4c24-926f-5ae64179c722.jpg)
-You can add motion blur to your data. Maybe it can increase the accuracy of real-time detection.
+You can add motion blur to your data. Maybe it can increase the accuracy in real-time detection.
 
 
 # Censor
