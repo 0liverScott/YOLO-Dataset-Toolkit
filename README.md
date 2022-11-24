@@ -54,6 +54,8 @@ You can censor useless data on the image.
 ### Count Class
 ![image](https://user-images.githubusercontent.com/97486738/201023143-a67b4ac2-7196-4308-958b-84e5c7cb586a.png)                                           
 Count class like this. No matter there is how many classes.
+*update 11/24*
+Now you don't need to specify the number of classes, and the terminal prints a zero-filled class number.
 
 ### Check Duplication
 ![image](https://user-images.githubusercontent.com/97486738/201038744-938aa71b-e035-49b4-812d-6e732a4f1ba5.png)                                                   
